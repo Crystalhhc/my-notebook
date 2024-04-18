@@ -1,12 +1,12 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
+site_name: My Notebook
 # defeine TOC or order of website-
 nav:
   - Home: index.md
 
 site_author: Crystal Chen
 site_description: >-
-  DESCRIPTION
+  This is my notebook.
 
 # Repository
 repo_name: my-notebook
